@@ -58,12 +58,10 @@ Para rodar este projeto localmente, você precisará das seguintes bibliotecas P
 
 ## Como Executar
 - Clone este repositório para sua máquina local:
+  
 ```bash
   git clone https://github.com/AugustMatt/ForestFiresInBrazil.git
   cd ForestFiresInBrazil
 ```
-- Instale as bibliotecas necessárias usando pip:
-```bash
-  pip install -r requirements.txt
-```
+
 - Execute a análise utilizando o notebook Jupyter fornecido ou scripts Python.
